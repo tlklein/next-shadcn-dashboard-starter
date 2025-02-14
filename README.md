@@ -1,4 +1,4 @@
-![F1 Car with Drivers](https://mclaren.bloomreach.io/delivery/resources/content/gallery/mclaren-racing/formula-1/2024/editorial/f1-2025-schedule-article-cover-wide.jpg)
+
 <h1 align="center"><strong>Next.js Admin Dashboard Starter Template With Shadcn-ui</strong></h1>
 <div align="center">Built with the Next.js 15 App Router</div>
 <br />
