@@ -8,8 +8,8 @@ import NextTopLoader from 'nextjs-toploader';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Next Shadcn',
-  description: 'Basic dashboard with Next.js and Shadcn'
+  title: 'Helios',
+  description: 'Admin Dashboard Starter with Nextjs15 and Shadcn UI'
 };
 
 const lato = Lato({

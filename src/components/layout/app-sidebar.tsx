@@ -38,7 +38,8 @@ import {
   ChevronsUpDown,
   CreditCard,
   GalleryVerticalEnd,
-  LogOut
+  LogOut,
+  Shell
 } from 'lucide-react';
 import { signOut, useSession } from 'next-auth/react';
 import Link from 'next/link';
@@ -47,9 +48,9 @@ import * as React from 'react';
 import { Icons } from '../icons';
 
 export const company = {
-  name: 'Acme Inc',
-  logo: GalleryVerticalEnd,
-  plan: 'Enterprise'
+  name: 'Liberty Media',
+  logo: Shell,
+  plan: 'Group'
 };
 
 export default function AppSidebar() {
