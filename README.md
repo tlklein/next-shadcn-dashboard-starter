@@ -1,6 +1,6 @@
 
 <h1 align="center"><strong>Next.js Admin Dashboard Starter Template With Shadcn-ui</strong></h1>
-<div align="center">Built with the Next.js 15 App Router</div>
+<div align="center">This project is a starter template for building an Admin Dashboard using Next.js 15 and ShadCN UI. It provides a structured foundation with essential features like navigation, authentication, and UI components to help developers quickly set up an admin panel. </div>
 <br />
 <div align="center">
 <a href="">View Demo</a>
@@ -9,7 +9,6 @@
 
 
 ## Overview
-
 - NOTE: **Next 15** with **React 19**
 
 This is the general technical framework:
